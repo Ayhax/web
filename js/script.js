@@ -1,6 +1,6 @@
 /*=============================================
-FECHAS RESERVA
-=============================================*/
+		FECHAS RESERVA
+		=============================================*/
 $('.datepicker.entrada').datepicker({
 	startDate: '0d',
 	format: 'dd-mm-yyyy',
